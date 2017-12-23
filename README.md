@@ -11,10 +11,24 @@ task.
 
 We then came up with a new method Binary Iterative Method which performs well over most of others methods on 1000 images sampled from the standard ImageNet dataset.
 
+
+* Please refer to [Report.pdf](Report.pdf) for detailed analysis.
+* Please refer to [Project_Proposal.pdf](Project_Proposal.pdf) for about the project.
+
+Directory Structure
+-------------------
+<pre>
+---README.md
+---Project_Proposal.pdf
+---Report.pdf
+---code (Download from https://goo.gl/aV7xAR)
+</pre>
+
+
 To Run
 ------
 
-Download code from https://drive.google.com/drive/u/1/folders/1eu3-KagRjawoOkXC9CN7mFaGj0a4Rz3W (Checkpoints and dataset size limit the code to be added to github)
+Download code from https://goo.gl/aV7xAR (Checkpoints and dataset size limit the code to be added to github)
 
 
 Dependencies:-
