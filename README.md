@@ -1,6 +1,6 @@
 # Binary Iterative Method for Non Adversarial Attack
 
-### Please refer to [Report.pdf](Report.pdf).
+### Please refer to [Report.pdf](Report.pdf)
 
 Adversarial examples refer to the transforming the input by an adversary so that any general machine learning model
 misclassify i.e the perturbed input results in the model outputting an incorrect answer with high confidence.
