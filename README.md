@@ -1,7 +1,6 @@
-Adversarial Attack
-==================
+# Binary Iterative Method for Non Adversarial Attack
 
-### [Report.pdf](Report.pdf)
+### Please refer to [Report.pdf](Report.pdf).
 
 Adversarial examples refer to the transforming the input by an adversary so that any general machine learning model
 misclassify i.e the perturbed input results in the model outputting an incorrect answer with high confidence.
@@ -11,10 +10,8 @@ Iterative Method, Virtual Adversarial Method using the InceptionV3 model.
 We then evaluate them over pre-trained using InceptionV3, InceptionV2, ResNet V2 152 over classification
 task.
 
-We then came up with a new method Binary Iterative Method which performs well over most of others methods on 1000 images sampled from the standard ImageNet dataset.
+To this end, we contribute a new method Binary Iterative Method which performs well over most of others methods on 1000 images sampled from the standard ImageNet dataset.
 
-
-* Please refer to [Report.pdf](Report.pdf) for detailed analysis.
 * Please refer to [Project_Proposal.pdf](Project_Proposal.pdf) for about the project.
 
 Directory Structure
