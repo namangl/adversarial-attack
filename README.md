@@ -1,4 +1,4 @@
-# Binary Iterative Method for Non Adversarial Attack
+# Binary Iterative Method for Non-targeted Adversarial Attack
 
 ### Please refer to [Report.pdf](Report.pdf)
 
